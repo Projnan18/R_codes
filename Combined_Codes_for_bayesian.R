@@ -1,4 +1,4 @@
-# Load data
+########## 4.77
 data <- read.table("Library.dat", header = TRUE)
 
 # Extract variable P
